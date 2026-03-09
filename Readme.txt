@@ -6,7 +6,7 @@ A free creative Bootstrap portfolio template with custom PHP/Razorpay payment in
 
 Template Name: portfolio-demo
 
-Template URL: 
+Template URL: https://codewithesha2002-design.github.io/portfolio-demo--laura/
 
 Author: codewithesha2002-design@gmail.com
 
@@ -78,3 +78,4 @@ Custom PHP/Razorpay payment integration for demos
 Easy to customize for clients or personal use
 
 Clean navigation and section layouts
+
